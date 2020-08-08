@@ -1,0 +1,8 @@
+div {
+  width: 100px; }
+  div span {
+    color: #cc0000; }
+  div:hover {
+    color: #ff3333; }
+
+/*# sourceMappingURL=all.css.map */
